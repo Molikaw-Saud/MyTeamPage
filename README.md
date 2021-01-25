@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://myteanpagchallenge.netlify.app/">
+    <a href="https://myteampagechallenge.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -41,7 +41,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- You can see My demo hare <a href ="https://myteanpagchallenge.netlify.app/"></a>
+- You can see My demo hare <a href ="https://myteampagechallenge.netlify.app/"></a>
 - What was your experience?
 - This challenge was really fun I use flexbox and I learn to much about layout 
 - What have you learned/improved?
